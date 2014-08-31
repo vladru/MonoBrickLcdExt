@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LcdDraw", "LcdDraw.csproj", "{D77E3836-EB77-47B2-9065-E42024476073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77E3836-EB77-47B2-9065-E42024476073}.Debug|x86.ActiveCfg = Debug|x86
+		{D77E3836-EB77-47B2-9065-E42024476073}.Debug|x86.Build.0 = Debug|x86
+		{D77E3836-EB77-47B2-9065-E42024476073}.Release|x86.ActiveCfg = Release|x86
+		{D77E3836-EB77-47B2-9065-E42024476073}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = LcdDraw.csproj
+	EndGlobalSection
+EndGlobal
