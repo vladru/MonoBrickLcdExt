@@ -3,7 +3,7 @@ using MonoBrickFirmware.Display;
 
 namespace LcdDraw
 {
-	public static class LcdExtensisions
+	public static class LcdExtensions
 	{
 		public static void DrawLine (this Lcd lcd, Point start, Point end, bool color)
 		{

@@ -32,8 +32,8 @@
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Compile Include="Program.cs" />
-    <Compile Include="LcdExtensisions.cs" />
     <Compile Include="ExamplesDialog.cs" />
+    <Compile Include="LcdExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoBrickFirmware">
