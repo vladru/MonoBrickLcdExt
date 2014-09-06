@@ -36,9 +36,10 @@
     <Compile Include="LcdExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="System" />
     <Reference Include="MonoBrickFirmware">
       <HintPath>MonoBrickFirmware.dll</HintPath>
+      <Private>False</Private>
     </Reference>
-    <Reference Include="System" />
   </ItemGroup>
 </Project>

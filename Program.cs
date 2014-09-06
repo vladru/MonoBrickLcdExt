@@ -7,7 +7,7 @@ namespace LcdDraw
 	{
 		public static void Main (string[] args)
 		{
-			var examplesDialog = new ExamplesDialog ("DrawLine example");
+			var examplesDialog = new ExamplesDialog ("Draw example");
 			examplesDialog.Show ();
 		}
 	}
